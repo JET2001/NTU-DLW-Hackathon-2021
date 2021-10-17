@@ -1,5 +1,5 @@
 # NTU-DLW-Hackathon-2021: Machine Learning Application for early detection of Coronary Heart Disease
-<hr>
+
 ### To Reduce Immediate Risk of Singaporeans who contract Coronary Heart Disease
 Coronary heart disease is really tough to predict with a high amount of accuracy, 
 Owing to its sudden nature, associated with the fact that it doesn’t have any noticeable symptoms. 
