@@ -13,6 +13,6 @@ I toiled on this over the two days, and now that as I write this reflection I ha
 the outcome, I feel that this hackathon is a pretty interesting way to throw yourself into the deep end and try to impress yourself
 by exceeding yourself. 
 
-See the video for my app here: https://youtu.be/Dhzdu_P3Txw
+See the video for my app here: https://youtu.be/y4zQZkeHc18
 
 Will probably go for more hackathons in the future. Thank you NTU's EEE for the virgin experience! 
