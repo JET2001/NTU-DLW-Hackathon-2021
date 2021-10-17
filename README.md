@@ -1,7 +1,8 @@
 # NTU-DLW-Hackathon-2021: Machine Learning Application for early detection of Coronary Heart Disease
 
 ### Reflection
-(MY FIRST HACKATHON!!)
+<em>(MY FIRST HACKATHON!!)</em>
+
 I was actually at a loss of what to do I must say. Less than 48 hours, a machine learning based solution? 
 Then I started watching videos on what projects are cool to do in 2021. I landed on Parkinsons disease, which I 
 found after a while a little tough to expand upon and come up with something more substantial, other than its 
